@@ -1,0 +1,78 @@
+Armando
+1. ok
+2. El problema no indica que leas la velocidad, ésta es constante.  -15
+El nombre de la variable para calcular el tiempo no debe llamarse 'velocidad', sería mejor 'tiempo'.
+3. Falta formatear los decimales (centavos)  -5
+4. ok
+Calificación: 80
+
+Mauricio
+1. El problema no indica que debes leer la información, solo pide que la muestres.  -20
+2. El problema no indica que leas la velocidad, ésta es constante. Tus resultados son incorrectos  -20
+3. ok
+4. ok
+Calificación: 60
+
+David
+1. El programa bien, pero los algoritmos en el documento deben estar en pseudocódigo o diagrama de flujo.  -20
+2. ok
+3. ok
+4. los datos de hombres/mujeres están al revés.  -2
+Calificación: 78
+
+Humberto
+1. ok
+2. ok
+3. Falta formatear los centavos (2 decimales)  -5
+4. ok
+Calificación: 95
+
+Sergio
+1. ok
+2. ok
+3. ok
+4. están al revés los datos de hombres y mujeres.  -2
+Calificación: 98
+
+
+Héctor Manuel
+1. El problema no indica que debes leer la información, solo pide que la muestres.  -20
+2. El problema no indica que leas la velocidad, ésta es constante.  -10
+3. No existe   -25
+4. ok
+Calificación: 45
+
+Paola
+1. Las comillas son incorrectas (¿editaste el archivo en word?)
+2. Las comillas...
+3. Falta formatear los centavos (2 decimales)  -5
+4. ok
+Calificación: 95
+
+Brian
+1. El problema no indica que debes leer la información, solo pide que la muestres.  -20
+2. El problema no indica que leas la velocidad, ésta es constante.  -10
+3. Falta formatear los centavos (2 decimales)  -5
+4. ok
+Calificación: 65
+
+Manuel
+1. ok
+2. ok
+3. ok
+4. ok
+Calificación: 100
+
+Jorge Juárez
+1. El problema no indica que debes leer la información, solo pide que la muestres.  -20
+2. El problema no indica que leas la velocidad, ésta es constante.  -10
+3. ok
+4. ok
+Calificación: 70
+
+Ernesto
+1. ok
+2. ok
+3. ok
+4. ok
+Calificación: 100
